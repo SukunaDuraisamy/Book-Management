@@ -11,3 +11,5 @@ Techniques: HTML, CSS, JAVASCRIPT
 Instructions:
   This is a simple Front End project. You can open it directly with your browser (start from index.html). Or you can deploy it on your server(such as Tomcat), and access it by URL.By clicking on login, register  and shopping cart button, you can jump to the corresponding pages.
   
+
+![image](https://github.com/user-attachments/assets/eb1eb0a4-a40e-4502-8fa5-b9bfc5835030)
